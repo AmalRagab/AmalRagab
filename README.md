@@ -12,7 +12,7 @@ I enjoy building applications, learning new technologies 💻, and continuously 
 </p>
 
 <p align="center"> 
- <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="amal ragab" /> 
+ <img src="https://komarev.com/ghpvc/?username=AmalRagab&label=Profile%20views&color=0e75b6&style=flat" alt="amal ragab" /> 
 </p>
 
 <div align="center">
