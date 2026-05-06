@@ -1,11 +1,10 @@
 
-![logo](PUT_YOUR_BANNER_HERE)
 
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 <img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 
 <h1 align="center">Hi 👋, I'm Amal Ragab</h1>
-<h3 align="center">A passionate Computer Science Student from Egypt 🇪🇬</h3>
+<h3 align="center">Software Engineer | Backend Developer | DevOps Enthusiast</h3>
 
 <p align="center">
 I am passionate about software development and exploring how technology can solve real-world problems 🌐  
@@ -42,28 +41,22 @@ I enjoy building applications, learning new technologies 💻, and continuously 
 
 - 🌱 I’m currently learning **DevOps**
 
-- 👨‍💻 All of my projects are available at **YOUR_PORTFOLIO_LINK**
-
 - 💬 Ask me about **C++, Java, JavaFX and Python**
 
-- 📫 How to reach me **YOUR_EMAIL**
+- 📫 How to reach me ragabaml242@gmail.com
 
-- 📄 Know about my experiences **YOUR_CV_OR_PORTFOLIO**
+- 📄 Know about my experiences https://drive.google.com/file/d/1VYLJKaCM9frQvcI2sNwmeNZ5CaiUpbkE/view?usp=drive_link
 
-- ⚡ Fun fact **I love turning ideas into real projects ✨**
 
 <br>
 
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
-<a href="YOUR_LINKEDIN_LINK" target="blank">
+<a href=https://www.linkedin.com/in/amal-ragab target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
 </a>
 
-<a href="YOUR_INSTAGRAM_LINK" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
-</a>
 </p>
 
 <br>
