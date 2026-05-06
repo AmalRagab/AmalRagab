@@ -28,8 +28,8 @@ I enjoy building applications, learning new technologies 💻, and continuously 
 
 <div align="center">
   <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/linux-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/git-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=linux" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=git" width="50" height="50"/>
   <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="50" height="50" />
 </div>
 
