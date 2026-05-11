@@ -7,7 +7,11 @@
 
 <p align="center">
 I'm a software engineering enthusiast passionate about building impactful applications and solving real-world problems through technology.
-<br><br>
+</p>
+
+&nbsp;
+
+<p align="center">
 Currently exploring backend development, cloud computing, and DevOps while continuously improving my technical skills.
 </p>
 
