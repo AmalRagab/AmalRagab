@@ -4,7 +4,7 @@
 <img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 
 <h1 align="center">Hi 👋, I'm Amal Ragab</h1>
-<h3 align="center">Software Engineer | Backend Developer | DevOps Enthusiast</h3>
+<h3 align="center">Software Engineer | DevOps & Cloud Enthusiast ☁️</h3>
 
 <p align="center">
 I am passionate about software development and exploring how technology can solve real-world problems 🌐  
