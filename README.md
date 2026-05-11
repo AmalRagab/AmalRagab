@@ -7,8 +7,8 @@
 <h3 align="center">Software Engineer | DevOps & Cloud Enthusiast ☁️</h3>
 
 <p align="center">
-I am passionate about software development and exploring how technology can solve real-world problems 🌐  
-I enjoy building applications, learning new technologies 💻, and continuously improving my skills in software engineering and DevOps 🚀
+Software engineering enthusiast passionate about building impactful applications and solving real-world problems through technology 🌐
+Currently exploring backend development, cloud computing, and DevOps while continuously improving my technical skills 🚀
 </p>
 
 <p align="center"> 
