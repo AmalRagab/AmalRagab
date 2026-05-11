@@ -7,8 +7,9 @@
 
 <p align="center">
 I'm a software engineering enthusiast passionate about building impactful applications and solving real-world problems through technology.
+<br><br>
+Currently exploring backend development, cloud computing, and DevOps while continuously improving my technical skills.
 </p>
-<p align="center">Currently exploring backend development, cloud computing, and DevOps while continuously improving my technical skills.</p>
 
 <p align="center"> 
  <img src="https://komarev.com/ghpvc/?username=AmalRagab&label=Profile%20views&color=0e75b6&style=flat" alt="amal ragab" /> 
