@@ -34,8 +34,8 @@ Focused on building reliable, scalable systems using cloud platforms and DevOps 
 
 ## Focus Areas
 
-- Cloud Computing & AWS Fundamentals  
-- DevOps Practices & CI/CD Pipelines  
+- Cloud Computing & AWS   
+- DevOps & CI/CD Pipelines  
 - Containerization with Docker  
 - Linux System Administration  
 - Version Control (Git & GitHub)  
