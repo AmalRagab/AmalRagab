@@ -4,7 +4,7 @@
 
 ### Software Engineer • DevOps & Cloud Enthusiast
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=20&duration=3500&pause=1200&color=6A7282&center=true&vCenter=true&width=500&lines=Backend+Development;DevOps+%26+Cloud+Computing;Learning+CI%2FCD+and+Automation" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=20&duration=3500&pause=1200&color=6A7282&center=true&vCenter=true&width=500&lines=Backend+Development;DevOps+%26+Cloud+Computing;Automation+%26+Scalable+Systems" />
 
 </div>
 
@@ -14,9 +14,9 @@
 
 Software Engineering student passionate about backend development, cloud computing, and DevOps practices.
 
-Currently focused on learning Docker, Linux, AWS, CI/CD, and automation while continuously improving problem-solving and software engineering skills.
+Focused on building strong technical skills in software engineering, automation, and scalable systems while exploring modern cloud technologies and development workflows.
 
-Interested in building scalable systems, learning modern technologies, and growing within cloud and DevOps environments.
+Experienced with Java, C++, Python, JavaFX, MySQL, Git, Docker, Linux, and AWS fundamentals.
 
 ---
 
@@ -25,16 +25,6 @@ Interested in building scalable systems, learning modern technologies, and growi
 <p>
 <img src="https://skillicons.dev/icons?i=python,java,cpp,docker,aws,linux,git,mysql,bash" />
 </p>
-
----
-
-## Currently Learning
-
-- Docker & Containerization
-- AWS Cloud Fundamentals
-- CI/CD Pipelines
-- Linux Administration
-- DevOps Automation
 
 ---
 
