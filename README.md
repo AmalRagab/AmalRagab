@@ -12,9 +12,14 @@
 
 ## About Me
 
+<div align="center">
+
 Cloud and DevOps-focused Software Engineer passionate about automation, infrastructure, and modern cloud technologies.
 
+<br>
+
 Focused on building reliable, scalable systems using cloud platforms and DevOps tools.
+</div>
 
 ---
 
