@@ -1,96 +1,54 @@
-
-<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
-<img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
-
-<h1 align="center">Hi 👋, I'm Amal Ragab</h1>
-<h3 align="center">Software Engineer | DevOps & Cloud Enthusiast ☁️</h3>
-
-<p align="center">
-I'm a software engineering enthusiast passionate about building impactful applications and solving real-world problems through technology.
-</p>
-
-&nbsp;
-
-<p align="center">
-Currently exploring backend development, cloud computing, and DevOps while continuously improving my technical skills.
-</p>
-
-<p align="center"> 
- <img src="https://komarev.com/ghpvc/?username=AmalRagab&label=Profile%20views&color=0e75b6&style=flat" alt="amal ragab" /> 
-</p>
-
 <div align="center">
-  <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50" height="50" />
+
+# Amal Ragab
+
+### Software Engineer • DevOps & Cloud Enthusiast
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=20&duration=3500&pause=1200&color=6A7282&center=true&vCenter=true&width=500&lines=Backend+Development;DevOps+%26+Cloud+Computing;Learning+CI%2FCD+and+Automation" />
+
 </div>
 
-<br>
+---
+
+## About Me
+
+Software Engineering student passionate about backend development, cloud computing, and DevOps practices.
+
+Currently focused on learning Docker, Linux, AWS, CI/CD, and automation while continuously improving problem-solving and software engineering skills.
+
+Interested in building scalable systems, learning modern technologies, and growing within cloud and DevOps environments.
+
+---
+
+## Tech Stack
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,cpp,docker,aws,linux,git,mysql,bash" />
+</p>
+
+---
+
+## Currently Learning
+
+- Docker & Containerization
+- AWS Cloud Fundamentals
+- CI/CD Pipelines
+- Linux Administration
+- DevOps Automation
+
+---
+
+## Connect
+
+<p>
+<a href="https://www.linkedin.com/in/amal-ragab">LinkedIn</a> •
+<a href="mailto:ragabaml242@gmail.com">Email</a>
+</p>
+
+---
 
 <div align="center">
-  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://skillicons.dev/icons?i=linux" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=git" width="50" height="50"/>
-  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="50" height="50" />
+
+<img src="https://komarev.com/ghpvc/?username=AmalRagab&style=flat-square" />
+
 </div>
-
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-
-<br><br>
-
-- 🔭 I’m currently working on **Software Engineering Projects**
-
-- 🌱 I’m currently learning **DevOps**
-
-- 💬 Ask me about **C++, Java, JavaFX and Python**
-
-- 📫 How to reach me ragabaml242@gmail.com
-
-- 📄 Know about my experiences https://drive.google.com/file/d/19oTS49ntj_2FvsYwGmpVAL8A3RHhHWrI/view?usp=drive_link
-
-
-<br>
-
-<h3 align="left">Connect with me:</h3>
-
-<p align="left">
-<a href=https://www.linkedin.com/in/amal-ragab target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-</a>
-
-</p>
-
-<br>
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-<h3 align="left">Languages and Tools:</h3>
-
-- Programming Languages
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,java,python" />
-  </a>
-</p>
-
-- Desktop & Backend Development
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,git,github,docker" />
-  </a>
-</p>
-
-- Tools
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,idea,linux,postman" />
-  </a>
-</p>
-
-<p align="right">
-Created with 🧡 by Amal Ragab
-</p>
-```
