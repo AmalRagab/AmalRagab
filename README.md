@@ -2,9 +2,9 @@
 
 # Amal Ragab
 
-### Software Engineer • DevOps & Cloud Enthusiast
+### Cloud & DevOps Enthusiast ☁️ | Software Engineering Student
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=20&duration=3500&pause=1200&color=6A7282&center=true&vCenter=true&width=500&lines=Backend+Development;DevOps+%26+Cloud+Computing;Automation+%26+Scalable+Systems" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=20&duration=3500&pause=1200&color=5B6CFF&center=true&vCenter=true&width=520&lines=Cloud+Computing+%26+DevOps;Automation+%26+Infrastructure;AWS+%7C+Docker+%7C+Linux+%7C+CI%2FCD" />
 
 </div>
 
@@ -12,19 +12,32 @@
 
 ## About Me
 
-Software Engineering student passionate about backend development, cloud computing, and DevOps practices.
+Cloud and DevOps-focused Software Engineering student with a strong interest in infrastructure, automation, and modern deployment practices.
 
-Focused on building strong technical skills in software engineering, automation, and scalable systems while exploring modern cloud technologies and development workflows.
-
-Experienced with Java, C++, Python, JavaFX, MySQL, Git, Docker, Linux, and AWS fundamentals.
+Passionate about building reliable, scalable systems and working with cloud environments and DevOps toolchains.
 
 ---
 
 ## Tech Stack
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,cpp,docker,aws,linux,git,mysql,bash" />
+<img src="https://skillicons.dev/icons?i=aws,docker,linux,git,github,bash" />
 </p>
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,cpp,python,mysql" />
+</p>
+
+---
+
+## Focus Areas
+
+- Cloud Computing & AWS Fundamentals  
+- DevOps Practices & CI/CD Pipelines  
+- Containerization using Docker  
+- Linux System & Environment Management  
+- Version Control & Collaboration with Git/GitHub  
+- Automation & Infrastructure Concepts  
 
 ---
 
